@@ -1,156 +1,142 @@
-# Coruscant Transit Command
+# Coruscant Transit Command 🚍
 
-A full-stack transit operations platform that combines demand prediction, route-level monitoring, and human-in-the-loop incident reporting for bus network management.
+Coruscant Transit Command is an AI-powered **public transit operations platform**.  
+Instead of relying only on static schedules and manual estimation, teams can predict route demand, monitor crowding risk, and take action with data-backed recommendations.
+
+---
 
 ## Problem Statement
 
-Urban transit operations teams need a practical way to:
+Transit operators often struggle to manage fleet demand dynamically across routes and time windows.  
+Coruscant Transit Command solves this by enabling:
 
-- Forecast demand by route and time window.
-- Detect overcrowding risk before passenger experience degrades.
-- React to contextual disruptions such as weather, traffic, and public events.
-- Collect and moderate field/user suggestions in one operational workflow.
+- route-level demand prediction
+- context-aware operational decisions (weather, traffic, events)
+- transparent admin moderation of field/user suggestions
 
-## Proposed Solution
+---
 
-Coruscant Transit Command provides:
+## Solution Overview
 
-- A machine learning inference API (`FastAPI`) that predicts route demand and recommends fleet actions.
-- A command-center UI (`React + TypeScript`) for dashboards, analytics, simulation, maps, and prediction.
-- A suggestion pipeline with admin moderation to turn user feedback into approved operational alerts.
+Coruscant Transit Command combines:
 
-## Architecture Overview
+- a **React frontend** for dashboard, analytics, maps, simulation, and prediction workflows
+- a **FastAPI backend** for ML inference and recommendation generation
+- a **data-driven operations layer** using route, stop, fleet, and geometry datasets
 
-### Frontend
+Operations teams receive prediction insights and fleet recommendations in near real-time.
 
-- Framework: `React 18` + `TypeScript` + `Vite`
-- UI system: `Tailwind CSS`, `shadcn/ui`, `Radix UI`
-- Data/UX: `TanStack Query`, `React Router`, `Recharts`, `Leaflet`
-- Main pages: dashboard, analytics, prediction, suggestions, fleet, simulation, routes map, stops map.
+---
 
-### Backend
+## Architecture (Visual Representation)
 
-- Framework: `FastAPI` + `Uvicorn`
-- ML/processing: `pandas`, `scikit-learn`, `xgboost`
-- API endpoint: `GET /predict`
-- Startup behavior: loads model artifacts from `model/`.
-
-### Data Layer
-
-- Static operational datasets in `public/data/` (routes, stops, buses, geometry, suggestions).
-- Suggestion status is maintained via browser storage + development sync API.
-
-## Project Structure
-
-```text
-transit-command/
-  backend/                  # FastAPI inference service and utility providers
-  model/                    # Serialized ML model artifacts (.pkl)
-  public/data/              # Route/stop/bus/suggestions datasets
-  scripts/                  # Dataset generation utilities
-  src/
-    components/             # Reusable UI and layout components
-    lib/                    # API clients and domain utilities
-    pages/                  # Route-level application screens
+```mermaid
+flowchart LR
+    A[👤 Transit Operator] --> B[🖥 React Frontend]
+    B --> C[⚙ FastAPI Backend]
+    C --> D[🤖 ML Model Artifacts]
+    C --> E[🌦 Context Services]
+    B --> F[🗂 Local/Static Transit Datasets]
 ```
+
+---
+
+## Prediction + Action Flow (Visual Representation)
+
+```mermaid
+sequenceDiagram
+    participant U as Operator
+    participant FE as Frontend
+    participant API as FastAPI
+    participant CTX as Context Providers
+    participant ML as XGBoost Model
+
+    U->>FE: Select route/date/time and predict
+    FE->>API: GET /predict?route_id=...
+    API->>CTX: Fetch weather/traffic/event signals
+    API->>ML: Build feature vector and infer demand
+    API-->>FE: Demand + crowd level + fleet action
+    FE-->>U: Show recommendation and suggestions
+```
+
+---
+
+## Tech Stack 🧰
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| Frontend | React 18 + TypeScript + Vite | UI, routing, and operations dashboard |
+| Styling | Tailwind CSS + shadcn/ui + Radix UI | Fast, consistent component-driven design |
+| Data Visualization | Recharts | Analytics charts and KPI visuals |
+| Maps | Leaflet + react-leaflet | Route and stop map rendering |
+| State/Data Fetching | TanStack Query | Querying and UI sync for dynamic data |
+| Backend | Python + FastAPI + Uvicorn | Prediction API and orchestration |
+| ML/Data | pandas + scikit-learn + xgboost | Feature prep and demand inference |
+| Context Integration | requests + python-dotenv | Weather/traffic/event data access |
+| JavaScript Tooling | npm scripts | Frontend build/dev/test workflows |
+
+---
+
+## Project Structure (Architecture View) 🏗
+
+```mermaid
+flowchart TB
+    A[transit-command]
+    A --> B[backend]
+    A --> C[src]
+    A --> D[public]
+    A --> E[model]
+    A --> F[scripts]
+    A --> G[README.md]
+
+    B --> B1[main.py]
+    B --> B2[utils.py]
+    B --> B3[back-info.md]
+
+    C --> C1[pages]
+    C --> C2[components]
+    C --> C3[lib]
+
+    D --> D1[data]
+    D1 --> D11[routes.json]
+    D1 --> D12[stops.json]
+    D1 --> D13[buses.json]
+    D1 --> D14[routes_with_geometry.json]
+
+    E --> E1[xgb_demand_model.pkl]
+    E --> E2[model_columns.pkl]
+```
+
+---
+
+## Environment Configuration
+
+Use local environment setup before running:
+
+- create Python virtual environment in project root: `.venv`
+- install backend dependencies from: `backend/requirements.txt`
+- optional API override for frontend: `VITE_PREDICTION_API_URL`
+
+> Important: Never commit real API secrets, keys, or production credentials.
+
+---
 
 ## Key Features
 
-- Demand prediction by `route_id` with optional date/time override.
-- Crowd level classification (`Low`, `Medium`, `High`) from predicted load vs capacity.
-- Fleet recommendation (`increase`, `reduce`, `ok`) with actionable guidance.
-- Weather/traffic/event-aware suggestion generation.
-- Suggestion submission and admin review workflow.
-- Operational maps and simulation views for route/stops intelligence.
+- Route-wise demand prediction using ML inference
+- Crowd level classification (`Low`, `Medium`, `High`)
+- Fleet action recommendation (`increase`, `reduce`, `ok`)
+- Context-aware suggestions using weather/traffic/event signals
+- User suggestion submission with admin approval/rejection flow
+- Analytics, simulation, and route/stops map operations views
 
-## Tech Stack
+---
 
-### Frontend
+## 👨‍💻 Author
 
-- `React`, `TypeScript`, `Vite`
-- `React Router`, `TanStack Query`
-- `Tailwind CSS`, `shadcn/ui`, `Radix UI`
-- `Recharts`, `Leaflet`, `react-leaflet`
+Made with ❤️ by **Shreyash-devs**  
+A passionate developer who enjoys turning ideas into reality using tech and a touch of creativity.
 
-### Backend
-
-- `Python`, `FastAPI`, `Uvicorn`
-- `pandas`, `scikit-learn`, `xgboost`
-- `requests`, `python-dotenv`
-
-## Getting Started
-
-## Prerequisites
-
-- `Node.js` 18+ and `npm`
-- `Python` 3.10+ recommended
-- Windows PowerShell (commands below are PowerShell-friendly)
-
-### 1) Clone and install frontend dependencies
-
-```sh
-git clone https://github.com/shreyash-devs/coruscant_transit_command.git
-cd coruscant_transit_command/transit-command
-npm install
-```
-
-### 2) Create Python virtual environment and install backend dependencies
-
-```sh
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r backend/requirements.txt
-```
-
-### 3) Run full stack (frontend + backend)
-
-```sh
-npm run start
-```
-
-Frontend: `http://localhost:5173`  
-Backend: `http://localhost:8000`
-
-## Available Scripts
-
-- `npm run dev` - Start frontend only.
-- `npm run start:backend` - Start backend only.
-- `npm run start` - Run frontend and backend concurrently.
-- `npm run build` - Production build.
-- `npm run preview` - Preview production build locally.
-- `npm run lint` - Run ESLint checks.
-- `npm run test` - Run test suite.
-- `npm run test:watch` - Run tests in watch mode.
-- `npm run routes:json` - Generate route dataset JSON.
-- `npm run routes:geometry` - Generate route geometry JSON.
-
-## API Quick Reference
-
-### `GET /predict`
-
-Query parameters:
-
-- `route_id` (required)
-- `date` (optional, `YYYY-MM-DD`)
-- `time` (optional, `HH:MM`)
-
-Example:
-
-```sh
-curl "http://localhost:8000/predict?route_id=R001&date=2026-04-27&time=09:30"
-```
-
-Response includes:
-
-- `predicted_demand`
-- `crowd_level`
-- `weather`, `traffic`, `event`
-- `suggestions`
-- `buses_recommended`
-- `fleet_action`
-
-## Notes
-
-- Service hours guard is enforced in backend (`05:00` to `23:59`).
-- Ensure model artifacts exist in `model/` before starting backend.
-- For backend-specific details, see `backend/back-info.md`.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyashdubewar)  
+- 📱 [GitHub](https://github.com/shreyash-devs)  
+- ✉️ shreyashdevs.work@gmail.com
