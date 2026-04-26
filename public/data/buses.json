@@ -1,0 +1,182 @@
+[
+  {
+    "bus_id": "BUS-0001",
+    "route_id": "100-D",
+    "crowd_level": 87,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0002",
+    "route_id": "103B-D",
+    "crowd_level": 41,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0003",
+    "route_id": "103C-D",
+    "crowd_level": 41,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0004",
+    "route_id": "103-D",
+    "crowd_level": 96,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0005",
+    "route_id": "106-R",
+    "crowd_level": 34,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0006",
+    "route_id": "107-U",
+    "crowd_level": 72,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0007",
+    "route_id": "110-R",
+    "crowd_level": 76,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0008",
+    "route_id": "111-U",
+    "crowd_level": 51,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0009",
+    "route_id": "113A-U",
+    "crowd_level": 64,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0010",
+    "route_id": "113B-U",
+    "crowd_level": 96,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0011",
+    "route_id": "115P-U",
+    "crowd_level": 96,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0012",
+    "route_id": "116-U",
+    "crowd_level": 49,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0013",
+    "route_id": "117-U",
+    "crowd_level": 99,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0014",
+    "route_id": "122C-U",
+    "crowd_level": 50,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0015",
+    "route_id": "122-U",
+    "crowd_level": 33,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0016",
+    "route_id": "123-U",
+    "crowd_level": 96,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0017",
+    "route_id": "132-D",
+    "crowd_level": 50,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0018",
+    "route_id": "133-D",
+    "crowd_level": 20,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0019",
+    "route_id": "133B-D",
+    "crowd_level": 67,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0020",
+    "route_id": "139A-U",
+    "crowd_level": 18,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0021",
+    "route_id": "100-D",
+    "crowd_level": 83,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0022",
+    "route_id": "103B-D",
+    "crowd_level": 24,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0023",
+    "route_id": "103C-D",
+    "crowd_level": 44,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0024",
+    "route_id": "103-D",
+    "crowd_level": 79,
+    "status": "crowded"
+  },
+  {
+    "bus_id": "BUS-0025",
+    "route_id": "106-R",
+    "crowd_level": 38,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0026",
+    "route_id": "107-U",
+    "crowd_level": 27,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0027",
+    "route_id": "110-R",
+    "crowd_level": 15,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0028",
+    "route_id": "111-U",
+    "crowd_level": 53,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0029",
+    "route_id": "113A-U",
+    "crowd_level": 66,
+    "status": "normal"
+  },
+  {
+    "bus_id": "BUS-0030",
+    "route_id": "113B-U",
+    "crowd_level": 18,
+    "status": "normal"
+  }
+]

@@ -1,0 +1,5152 @@
+[
+  {
+    "route_id": "100-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "100-U",
+    "source": "Ma Na Pa",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "101-D",
+    "source": "Kondhwa Bk",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "101-U",
+    "source": "Kothrud Depot",
+    "destination": "Kondhwa Bk"
+  },
+  {
+    "route_id": "102-D",
+    "source": "Lohgaon",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "102-U",
+    "source": "Kothrud Depot",
+    "destination": "Lohgaon"
+  },
+  {
+    "route_id": "103A-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Katraj (Vai Kothrud Depo)"
+  },
+  {
+    "route_id": "103A-U",
+    "source": "Katraj",
+    "destination": "Hinjawadi Maan Phase 3 (Vai Kothrud Depo)"
+  },
+  {
+    "route_id": "103B-D",
+    "source": "Swargate",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "103B-U",
+    "source": "Katraj",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "103C-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "103C-U",
+    "source": "Swargate",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "103-D",
+    "source": "Kothrud Depot",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "103-U",
+    "source": "Katraj",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "104-D",
+    "source": "DSK Vishwa",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "104-U",
+    "source": "Deccan Gymkhana",
+    "destination": "DSK Vishwa"
+  },
+  {
+    "route_id": "105-D",
+    "source": "Balewadi Depot",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "105-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Balewadi Depot"
+  },
+  {
+    "route_id": "106-R",
+    "source": "Galinde Path",
+    "destination": "Galinde Path"
+  },
+  {
+    "route_id": "107-D",
+    "source": "Pimplegurav",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "107-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "108-D",
+    "source": "Pune Station",
+    "destination": "Sutardara"
+  },
+  {
+    "route_id": "108-U",
+    "source": "Sutardara",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "109-R",
+    "source": "Ma Na Pa",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "10-D",
+    "source": "Keshavnagar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "10-U",
+    "source": "Swargate",
+    "destination": "Keshavnagar"
+  },
+  {
+    "route_id": "110-R",
+    "source": "Ma Na Pa",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "111-D",
+    "source": "Ma Na Pa",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "111-U",
+    "source": "Bhekrainagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "112-D",
+    "source": "Mandai",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "112-U",
+    "source": "Kothrud Depot",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "113A-D",
+    "source": "Pimplegurav",
+    "destination": "Appa Balawant Chowk"
+  },
+  {
+    "route_id": "113A-U",
+    "source": "Appa Balawant Chowk",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "113B-D",
+    "source": "Pimplegurav",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "113B-U",
+    "source": "Ma Na Pa",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "113-D",
+    "source": "Vasantdada Putala Sangvi",
+    "destination": "Appa Balawant Chowk"
+  },
+  {
+    "route_id": "113-U",
+    "source": "Appa Balawant Chowk",
+    "destination": "Vasantdada Putala Sangvi"
+  },
+  {
+    "route_id": "114-D",
+    "source": "Mhalungegaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "114-U",
+    "source": "Ma Na Pa",
+    "destination": "Mhalungegaon"
+  },
+  {
+    "route_id": "115P-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "115P-U",
+    "source": "Pune Station",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "116-D",
+    "source": "Khadki Bazar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "116-U",
+    "source": "Ma Na Pa",
+    "destination": "Khadki Bazar"
+  },
+  {
+    "route_id": "117A-D",
+    "source": "DSK Vishwa",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "117A-U",
+    "source": "Swargate",
+    "destination": "DSK Vishwa"
+  },
+  {
+    "route_id": "117B-D",
+    "source": "Shree Control",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "117B-U",
+    "source": "Swargate",
+    "destination": "Shree Control"
+  },
+  {
+    "route_id": "117C-D",
+    "source": "Raykarmala",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "117C-U",
+    "source": "Swargate",
+    "destination": "Raykarmala"
+  },
+  {
+    "route_id": "117-D",
+    "source": "Dhayari Maruti Mandir",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "117-U",
+    "source": "Swargate",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "117D-U",
+    "source": "Swargate",
+    "destination": "Saritanagari"
+  },
+  {
+    "route_id": "117E-D",
+    "source": "Shaniwarwada Stand",
+    "destination": "Saritanagari"
+  },
+  {
+    "route_id": "117F-U",
+    "source": "Shaniwarwada",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "118-7A-D",
+    "source": "Swargate",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "118-7A-U",
+    "source": "Marketyard",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118-7-D",
+    "source": "Venutai Chavan College",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118-7-U",
+    "source": "Swargate",
+    "destination": "Venutai Chavan College"
+  },
+  {
+    "route_id": "118A-D",
+    "source": "Suncity",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118A-U",
+    "source": "Swargate",
+    "destination": "Suncity"
+  },
+  {
+    "route_id": "118B-D",
+    "source": "Vadgaon Bk",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118B-U",
+    "source": "Swargate",
+    "destination": "Vadgaon Bk"
+  },
+  {
+    "route_id": "118C-D",
+    "source": "Nanded",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118C-U",
+    "source": "Swargate",
+    "destination": "Nanded"
+  },
+  {
+    "route_id": "118-D",
+    "source": "Venutai Chavan College",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "118-U",
+    "source": "Swargate",
+    "destination": "Venutai Chavan College"
+  },
+  {
+    "route_id": "119A-D",
+    "source": "Alandi",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "119A-U",
+    "source": "Vishrantwadi",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "119-D",
+    "source": "Alandi",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "119-U",
+    "source": "Ma Na Pa",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "11-D",
+    "source": "Pimplegurav",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "11-U",
+    "source": "Marketyard",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "11K-D",
+    "source": "Kalpataru",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "11K-U",
+    "source": "Katraj",
+    "destination": "Kalpataru"
+  },
+  {
+    "route_id": "120A-D",
+    "source": "Indoorance System",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "120A-U",
+    "source": "Bhosari",
+    "destination": "Indoorance System"
+  },
+  {
+    "route_id": "120-D",
+    "source": "Indoorance System Chakan Mhalunge",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "120-U",
+    "source": "Ma Na Pa",
+    "destination": "Indoorance System Chakan Mhalunge"
+  },
+  {
+    "route_id": "121-D",
+    "source": "Bhosari Terminal",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "121-U",
+    "source": "Ma Na Pa",
+    "destination": "Bhosari Terminal"
+  },
+  {
+    "route_id": "122A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "122B-D",
+    "source": "Chinchwadgaon",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "122B-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "122C-U",
+    "source": "Ma Na Pa",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "122-D",
+    "source": "Chinchwadgaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "122-U",
+    "source": "Ma Na Pa",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "123-D",
+    "source": "Bhakti Shakti",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "123-U",
+    "source": "Ma Na Pa",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "125-D",
+    "source": "Dapodi Mantri Niketan",
+    "destination": "Bopkhel"
+  },
+  {
+    "route_id": "125-U",
+    "source": "Bopkhel",
+    "destination": "Dapodi Mantri Niketan"
+  },
+  {
+    "route_id": "126A-D",
+    "source": "Kamalpark",
+    "destination": "Khadki Bazar"
+  },
+  {
+    "route_id": "126B-U",
+    "source": "Kamalpark",
+    "destination": "Pimplenilakh"
+  },
+  {
+    "route_id": "126C-U",
+    "source": "Khadki Bazar",
+    "destination": "Pimplenilakh"
+  },
+  {
+    "route_id": "126-D",
+    "source": "Pimplenilakh",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "126D-U",
+    "source": "Khadki Bazar",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "126-U",
+    "source": "Vishrantwadi",
+    "destination": "Pimplenilakh"
+  },
+  {
+    "route_id": "128-D",
+    "source": "Bopkhel",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "128-U",
+    "source": "Ma Na Pa",
+    "destination": "Bopkhel"
+  },
+  {
+    "route_id": "129-D",
+    "source": "Balewadi Depot",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "129-U",
+    "source": "Pune Station",
+    "destination": "Balewadi Depot"
+  },
+  {
+    "route_id": "12-D",
+    "source": "Bhakti Shakti",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "12-U",
+    "source": "Upper Depot",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "130A-D",
+    "source": "Yewalewadi",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "130A-U",
+    "source": "Katraj",
+    "destination": "Yewalewadi"
+  },
+  {
+    "route_id": "130-D",
+    "source": "Shivajinagar",
+    "destination": "Yewalewadi"
+  },
+  {
+    "route_id": "130-U",
+    "source": "Yewalewadi",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "132A-D",
+    "source": "Vadgaonsheri",
+    "destination": "Ma Na Pa (Via Shubham)"
+  },
+  {
+    "route_id": "132A-U",
+    "source": "Ma Na Pa",
+    "destination": "Vadgaonsheri (Via Shubham)"
+  },
+  {
+    "route_id": "132-D",
+    "source": "Shubham Society Nagar Road",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "132-U",
+    "source": "Ma Na Pa",
+    "destination": "Shubham Society Nagar Road"
+  },
+  {
+    "route_id": "133A-D",
+    "source": "Vadgaon Sheri",
+    "destination": "Ma Na Pa (Via Anand Park)"
+  },
+  {
+    "route_id": "133A-U",
+    "source": "Ma Na Pa",
+    "destination": "Vadgaon Sheri (Via Anand Park)"
+  },
+  {
+    "route_id": "133-D",
+    "source": "Anand Park",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "133-U",
+    "source": "Ma Na Pa",
+    "destination": "Anand Park"
+  },
+  {
+    "route_id": "133B-D",
+    "source": "Sainathnagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "133B-U",
+    "source": "Ma Na Pa",
+    "destination": "Sainath nagar"
+  },
+  {
+    "route_id": "134-D",
+    "source": "Vidyanagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "134-U",
+    "source": "Pune Station",
+    "destination": "Vidyanagar"
+  },
+  {
+    "route_id": "135A-D",
+    "source": "Wadebolhai",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "135A-U",
+    "source": "Kesnand Phata",
+    "destination": "Wadebolhai"
+  },
+  {
+    "route_id": "135-D",
+    "source": "Wadebolhai",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "135-U",
+    "source": "Pune Station",
+    "destination": "Wadebolhai"
+  },
+  {
+    "route_id": "136A-D",
+    "source": "Vadegaon",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "136A-U",
+    "source": "Kesnand Phata",
+    "destination": "Vadegaon"
+  },
+  {
+    "route_id": "136-D",
+    "source": "Vadegaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "136-U",
+    "source": "Pune Station",
+    "destination": "Vadegaon"
+  },
+  {
+    "route_id": "139A-D",
+    "source": "Bhakti Shakti",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "139A-U",
+    "source": "Bhekrainagar",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "139-D",
+    "source": "Bhakti Shakti",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "139-U",
+    "source": "Shewalwadi",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "13A-D",
+    "source": "Shivajinagar",
+    "destination": "VIT College"
+  },
+  {
+    "route_id": "13A-U",
+    "source": "Vit College",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "13B-D",
+    "source": "Pune Vidhyapeeth",
+    "destination": "Upper Depo"
+  },
+  {
+    "route_id": "13B-U",
+    "source": "Upper Depo",
+    "destination": "Pune Vidhyapeeth"
+  },
+  {
+    "route_id": "13C-U",
+    "source": "Upper Depo",
+    "destination": "Pune Vidhyapeeth"
+  },
+  {
+    "route_id": "13-D",
+    "source": "Shivajinagar",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "13L-D",
+    "source": "Shivajinagar",
+    "destination": "Lake town Society"
+  },
+  {
+    "route_id": "13L-U",
+    "source": "Lake town Society",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "13-U",
+    "source": "Upper Depot",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "140-D",
+    "source": "Pune Station",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "140-U",
+    "source": "Upper Depot",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "141A-D",
+    "source": "Marketyard",
+    "destination": "Khandoba Mandir"
+  },
+  {
+    "route_id": "141A-U",
+    "source": "Khandoba Mandir",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "141-D",
+    "source": "Pune Station",
+    "destination": "Khandoba Mandir"
+  },
+  {
+    "route_id": "141-U",
+    "source": "Khandoba Mandir",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "142-D",
+    "source": "Ghotawade Phata",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "142-U",
+    "source": "Pune Station",
+    "destination": "Ghotawade Phata"
+  },
+  {
+    "route_id": "143A-D",
+    "source": "Pune Station",
+    "destination": "Galinde Path (Vai Nal Stop)"
+  },
+  {
+    "route_id": "143A-U",
+    "source": "Galinde Path",
+    "destination": "Pune Station (Vai Nal Stop)"
+  },
+  {
+    "route_id": "143-D",
+    "source": "Pune Station",
+    "destination": "Galinde Path (Vai Mhatre Pul)"
+  },
+  {
+    "route_id": "143-U",
+    "source": "Galinde Path",
+    "destination": "Pune Station (Vai Mhatre Pul)"
+  },
+  {
+    "route_id": "144A-D",
+    "source": "Pune Station",
+    "destination": "Sai Sayajinagar"
+  },
+  {
+    "route_id": "144A-U",
+    "source": "Sai Sayajinagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "144B-D",
+    "source": "Sainathnagar",
+    "destination": "Kumbre Park"
+  },
+  {
+    "route_id": "144B-U",
+    "source": "Kumbre Park",
+    "destination": "Sainathnagar"
+  },
+  {
+    "route_id": "144-D",
+    "source": "Pune Station",
+    "destination": "Kothrud Stand"
+  },
+  {
+    "route_id": "144D-D",
+    "source": "Pune Station",
+    "destination": "Kumbare Park"
+  },
+  {
+    "route_id": "144D-U",
+    "source": "Kumbare Park",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "144K-D",
+    "source": "Pune Station",
+    "destination": "Gujrat Colony"
+  },
+  {
+    "route_id": "144K-U",
+    "source": "Gujrat Colony",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "144-U",
+    "source": "Kothrud Stand",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "145A-D",
+    "source": "D2 Circle",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "145A-U",
+    "source": "Pune Station",
+    "destination": "D2 Circle"
+  },
+  {
+    "route_id": "145B-D",
+    "source": "Sutarwadi Pashan",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "145B-U",
+    "source": "Pune Station",
+    "destination": "Sutarwadi Pashan"
+  },
+  {
+    "route_id": "145-D",
+    "source": "NDA Golmarket",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "145-U",
+    "source": "Pune Station",
+    "destination": "NDA Gol Market"
+  },
+  {
+    "route_id": "146-D",
+    "source": "Gokhalenagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "146-U",
+    "source": "Pune Station",
+    "destination": "Gokhalenagar"
+  },
+  {
+    "route_id": "147A-D",
+    "source": "Nhavi Sandas",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "147A-U",
+    "source": "Kesnand Phata",
+    "destination": "Nhavi Sandas"
+  },
+  {
+    "route_id": "147-D",
+    "source": "Nhavi Sandas",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "147-U",
+    "source": "Pune Station",
+    "destination": "Nhavi Sandas"
+  },
+  {
+    "route_id": "148A-D",
+    "source": "Bhosari",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "148A-U",
+    "source": "Bhekrainagar",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "148-D",
+    "source": "Pimplegurav",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "148-U",
+    "source": "Shewalwadi",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "149A-D",
+    "source": "Bhakti Shakti",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "149A-U",
+    "source": "Shewalwadi",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "149-D",
+    "source": "Pimpri",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "149-U",
+    "source": "Shewalwadi",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "14-D",
+    "source": "Kesnand Phata",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "14-U",
+    "source": "Dhayari Maruti Mandir",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "151-D",
+    "source": "Alandi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "151-U",
+    "source": "Pune Station",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "152A-D",
+    "source": "Munjabavasti",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "152A-U",
+    "source": "Ma Na Pa",
+    "destination": "Munjabavasti"
+  },
+  {
+    "route_id": "152D-D",
+    "source": "Ma Na Pa",
+    "destination": "Dhanorigaon"
+  },
+  {
+    "route_id": "154-D",
+    "source": "Vishrantwadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "154-U",
+    "source": "Pune Station",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "155-D",
+    "source": "Lohgaon",
+    "destination": "Pune Station (Via Dhanori)"
+  },
+  {
+    "route_id": "155-U",
+    "source": "Pune Station",
+    "destination": "Lohgaon (Via Dhanori)"
+  },
+  {
+    "route_id": "158A-D",
+    "source": "Dadachi Padal",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "158A-U",
+    "source": "Ma Na Pa",
+    "destination": "Dadachi Padal"
+  },
+  {
+    "route_id": "158-D",
+    "source": "Lohgaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "158-U",
+    "source": "Ma Na Pa",
+    "destination": "Lohgaon"
+  },
+  {
+    "route_id": "159-D",
+    "source": "Talegaon Dhamdhere",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "159K-D",
+    "source": "Koregaon Bhima",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "159K-U",
+    "source": "Ma Na Pa",
+    "destination": "Koregaon Bhima"
+  },
+  {
+    "route_id": "159P-D",
+    "source": "Pabal Phata",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "159P-U",
+    "source": "Ma Na Pa",
+    "destination": "Pabal Phata"
+  },
+  {
+    "route_id": "159-U",
+    "source": "Ma Na Pa",
+    "destination": "Talegaon Dhamdhere"
+  },
+  {
+    "route_id": "160-D",
+    "source": "Mundhwagaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "160-U",
+    "source": "Ma Na Pa",
+    "destination": "Mundhwagaon"
+  },
+  {
+    "route_id": "161-D",
+    "source": "Vimannagar",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "161-U",
+    "source": "Warje Malwadi",
+    "destination": "Vimannagar"
+  },
+  {
+    "route_id": "162-D",
+    "source": "Kendurgaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "162-U",
+    "source": "Pune Station",
+    "destination": "Kendurgaon"
+  },
+  {
+    "route_id": "163-D",
+    "source": "Kharadi Gaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "163-U",
+    "source": "Pune Station",
+    "destination": "Kharadi Gaon"
+  },
+  {
+    "route_id": "164-D",
+    "source": "Vimannagar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "164-U",
+    "source": "Swargate",
+    "destination": "Vimannagar"
+  },
+  {
+    "route_id": "165-D",
+    "source": "Vadgaonsheri",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "165-U",
+    "source": "Ma Na Pa",
+    "destination": "Vadgaonsheri"
+  },
+  {
+    "route_id": "166-D",
+    "source": "Vimannagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "166-U",
+    "source": "Pune Station",
+    "destination": "Vimannagar"
+  },
+  {
+    "route_id": "167-D",
+    "source": "Kesnand Phata",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "167-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "168-D",
+    "source": "Keshavnagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "168-U",
+    "source": "Ma Na Pa",
+    "destination": "Keshavnagar"
+  },
+  {
+    "route_id": "169-D",
+    "source": "Keshavnagar",
+    "destination": "Ma Na Pa (Vai Koregaon Park)"
+  },
+  {
+    "route_id": "169-U",
+    "source": "Ma Na Pa",
+    "destination": "Keshavnagar (Vai Koregaon Park)"
+  },
+  {
+    "route_id": "170A-D",
+    "source": "Kondhwa Bk",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "170A-U",
+    "source": "Pune Station",
+    "destination": "Kondhwa Bk"
+  },
+  {
+    "route_id": "170B-D",
+    "source": "Kondhwa Hospital",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "170B-U",
+    "source": "Pune Station",
+    "destination": "Kondhwa Hospital"
+  },
+  {
+    "route_id": "170-D",
+    "source": "Kondhwa Bk",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "170-U",
+    "source": "Pune Station",
+    "destination": "Kondhwa Bk"
+  },
+  {
+    "route_id": "174A-D",
+    "source": "NDA Golmarket",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "174A-U",
+    "source": "Pune Station",
+    "destination": "NDA Gol Market"
+  },
+  {
+    "route_id": "174B-D",
+    "source": "D2 Circle",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "174B-U",
+    "source": "Pune Station",
+    "destination": "D2 Circle"
+  },
+  {
+    "route_id": "174-D",
+    "source": "Kondhwa Gate",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "174-U",
+    "source": "Pune Station",
+    "destination": "Kondhwa Gate"
+  },
+  {
+    "route_id": "175-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "175-U",
+    "source": "Ma Na Pa",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "176A-D",
+    "source": "Krushnanagar Mohammadwadi",
+    "destination": "Swargate (Vai NIBM)"
+  },
+  {
+    "route_id": "176A-U",
+    "source": "Swrgate",
+    "destination": "Krushnanagar Mohammadwadi (Vai NIBM)"
+  },
+  {
+    "route_id": "176-D",
+    "source": "Mahammad Wadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "176-U",
+    "source": "Swargate",
+    "destination": "Mahammad Wadi"
+  },
+  {
+    "route_id": "177A-D",
+    "source": "Azadnagar",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "177A-U",
+    "source": "Vishrantwadi",
+    "destination": "Azadnagar"
+  },
+  {
+    "route_id": "177B-D",
+    "source": "Siddharthnagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "177B-U",
+    "source": "Pune Station",
+    "destination": "Siddharthnagar"
+  },
+  {
+    "route_id": "177-D",
+    "source": "Salunke Vihar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "177D-D",
+    "source": "Azadnagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "177D-U",
+    "source": "Pune Station",
+    "destination": "Azadnagar"
+  },
+  {
+    "route_id": "177K-D",
+    "source": "Krushnanagar Mohammadwadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "177K-U",
+    "source": "Pune Station",
+    "destination": "Krushnanagar Mohammadwadi"
+  },
+  {
+    "route_id": "177M-D",
+    "source": "Mahammad Wadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "177M-U",
+    "source": "Pune Station",
+    "destination": "Mahammad Wadi"
+  },
+  {
+    "route_id": "177-U",
+    "source": "Pune Station",
+    "destination": "Salunke Vihar"
+  },
+  {
+    "route_id": "179A-D",
+    "source": "Vadachiwadi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "179A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Vadachiwadi"
+  },
+  {
+    "route_id": "179-D",
+    "source": "Vadachiwadi",
+    "destination": "swargate"
+  },
+  {
+    "route_id": "179-U",
+    "source": "Swargate",
+    "destination": "Vadachiwadi"
+  },
+  {
+    "route_id": "17A-D",
+    "source": "Narhegaon",
+    "destination": "Natraj Stand"
+  },
+  {
+    "route_id": "17A-U",
+    "source": "Natraj Stand",
+    "destination": "Narhegaon"
+  },
+  {
+    "route_id": "17B-D",
+    "source": "Shaniwarwada Stand",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "17B-U",
+    "source": "Swargate",
+    "destination": "Shaniwarwada Stand"
+  },
+  {
+    "route_id": "17-D",
+    "source": "Narhegaon",
+    "destination": "Shaniwarwada"
+  },
+  {
+    "route_id": "17-U",
+    "source": "Shaniwarwada",
+    "destination": "Narhegaon"
+  },
+  {
+    "route_id": "180-D",
+    "source": "Bhekrainagar",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "180-U",
+    "source": "Na Ta Wadi",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "181A-D",
+    "source": "SRP Camp",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "181A-U",
+    "source": "Na Ta Wadi",
+    "destination": "SRP Camp"
+  },
+  {
+    "route_id": "181B-D",
+    "source": "Siddharthnagar",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "181B-U",
+    "source": "Na Ta Wadi",
+    "destination": "Siddharthnagar"
+  },
+  {
+    "route_id": "181C-D",
+    "source": "Kondhwa Bk",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "181C-U",
+    "source": "Na Ta Wadi",
+    "destination": "Kondhwa Bk"
+  },
+  {
+    "route_id": "181-D",
+    "source": "Kondhwa Kh",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "181-U",
+    "source": "Na Ta Wadi",
+    "destination": "Kondhwa Kh"
+  },
+  {
+    "route_id": "183A-D",
+    "source": "Theur Factory",
+    "destination": "Sarasbaug"
+  },
+  {
+    "route_id": "183A-U",
+    "source": "Sarasbaug",
+    "destination": "Theur Factory"
+  },
+  {
+    "route_id": "183-D",
+    "source": "Theur",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "183-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Theur"
+  },
+  {
+    "route_id": "184A-D",
+    "source": "Bhekrainagar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "184A-NGT-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "184A-NGT-U",
+    "source": "Swargate",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "184A-U",
+    "source": "Swargate",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "184B-D",
+    "source": "Fursungi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "184B-U",
+    "source": "Swargate",
+    "destination": "Fursungi"
+  },
+  {
+    "route_id": "184-D",
+    "source": "Fursungi",
+    "destination": "Padmawati"
+  },
+  {
+    "route_id": "184-U",
+    "source": "Padmawati",
+    "destination": "Fursungi"
+  },
+  {
+    "route_id": "185-D",
+    "source": "Manjari Kh",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "185-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Manjari Kh"
+  },
+  {
+    "route_id": "186A-D",
+    "source": "Swargate",
+    "destination": "Jspm College"
+  },
+  {
+    "route_id": "186A-U",
+    "source": "Jspm College",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "186B-D",
+    "source": "Hadapsar Gadital",
+    "destination": "JSPM college"
+  },
+  {
+    "route_id": "186B-U",
+    "source": "JSPM college",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "186-D",
+    "source": "Pune Station",
+    "destination": "Jspm College"
+  },
+  {
+    "route_id": "186-U",
+    "source": "Jspm College",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "187-D",
+    "source": "Pune Station",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "187-U",
+    "source": "Bhekrainagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "188-D",
+    "source": "Katraj",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "188-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "189-D",
+    "source": "Devachi Uruli",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "189-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Devachi Uruli"
+  },
+  {
+    "route_id": "18-D",
+    "source": "Bhansali Complex",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "18-U",
+    "source": "Swargate",
+    "destination": "Bhansali Complex"
+  },
+  {
+    "route_id": "190A-D",
+    "source": "Vadkigaon",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "190A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Vadkigaon"
+  },
+  {
+    "route_id": "190-D",
+    "source": "Fursungi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "190-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Fursungi"
+  },
+  {
+    "route_id": "191-D",
+    "source": "Trinity College",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "191-U",
+    "source": "Pune Station",
+    "destination": "Trinity College"
+  },
+  {
+    "route_id": "192A-D",
+    "source": "Mohammadwadigaon",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "192A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Mohammadwadigaon"
+  },
+  {
+    "route_id": "192-D",
+    "source": "Undrigaon",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "192-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Undrigaon"
+  },
+  {
+    "route_id": "193-D",
+    "source": "Uruli Kanchan",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "193-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Uruli Kanchan"
+  },
+  {
+    "route_id": "195-D",
+    "source": "Holkarwadi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "195-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Holkarwadi"
+  },
+  {
+    "route_id": "196A-D",
+    "source": "Mahammad Wadi",
+    "destination": "Swargate (Vai Ram Takedi)"
+  },
+  {
+    "route_id": "196A-U",
+    "source": "Swargate",
+    "destination": "Mahammad Wadi  (Vai Ram Takedi)"
+  },
+  {
+    "route_id": "196-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "196-U",
+    "source": "Pune Station",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "197-D",
+    "source": "Kothrud Depot",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "197-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "198-D",
+    "source": "Manjari Bk",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "198-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Manjari Bk"
+  },
+  {
+    "route_id": "19A-D",
+    "source": "Shivajinagar",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "19A-U",
+    "source": "Marketyard",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "19B-D",
+    "source": "Kondhwa Hospital",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "19B-U",
+    "source": "Marketyard",
+    "destination": "Kondhwa Hospital"
+  },
+  {
+    "route_id": "19-D",
+    "source": "Shivajinagar",
+    "destination": "Kondhwa Hospital"
+  },
+  {
+    "route_id": "19-U",
+    "source": "Kondhwa Hospital",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "200A-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Sadesatranali"
+  },
+  {
+    "route_id": "200A-U",
+    "source": "Sadesatranali",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "200-D",
+    "source": "Swargate",
+    "destination": "Sadesatranali"
+  },
+  {
+    "route_id": "200-U",
+    "source": "Sadesatranali",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "201-D",
+    "source": "Alandi",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "201-U",
+    "source": "Bhekrainagar",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "202A-U",
+    "source": "Mahatma Gandhi Stand",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "202B-D",
+    "source": "Mahatma Gandhi Stand",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "202B-U",
+    "source": "Swargate",
+    "destination": "Mahatma Gandhi Stand"
+  },
+  {
+    "route_id": "202-D",
+    "source": "Warje Malwadi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "202-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Ganpati Matha"
+  },
+  {
+    "route_id": "203-D",
+    "source": "Pune Station",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "203-NGT-D",
+    "source": "Pune Station",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "203-NGT-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "203P-D",
+    "source": "Pune Station",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "203P-U",
+    "source": "Shewalwadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "203-U",
+    "source": "Bhekrainagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "204-D",
+    "source": "Chinchwadgaon",
+    "destination": "Bhekrainagar"
+  },
+  {
+    "route_id": "204-U",
+    "source": "Bhekrainagar",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "205-D",
+    "source": "Vasantdada Putala Sangvi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "205-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Vasantdada Putala Sangvi"
+  },
+  {
+    "route_id": "206-D",
+    "source": "Vishalnagar",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "206-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Vishalnagar"
+  },
+  {
+    "route_id": "207A-D",
+    "source": "Saswad",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "207A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Saswad"
+  },
+  {
+    "route_id": "207-D",
+    "source": "Saswad",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "207-U",
+    "source": "Swargate",
+    "destination": "Saswad"
+  },
+  {
+    "route_id": "208A-D",
+    "source": "Bhakti Shakti",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "208A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "208-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "208-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "20A-D",
+    "source": "Sahkarnagar",
+    "destination": "Swargate Depo"
+  },
+  {
+    "route_id": "20A-U",
+    "source": "Swargate Depo",
+    "destination": "Sahkarnagar"
+  },
+  {
+    "route_id": "20B-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "20B-U",
+    "source": "Swargate",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "20-D",
+    "source": "Pune Station",
+    "destination": "Sahkarnagar"
+  },
+  {
+    "route_id": "20-U",
+    "source": "Sahkarnagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "213-D",
+    "source": "Vimannagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "213-U",
+    "source": "Katraj",
+    "destination": "Vimannagar"
+  },
+  {
+    "route_id": "215A-U",
+    "source": "Chintamani Dnyanpith",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "215A-D",
+    "source": "Swargate",
+    "destination": "Chintamani Dnyanpith"
+  },
+  {
+    "route_id": "215-D",
+    "source": "Swargate",
+    "destination": "Chintamani Dnyanpith"
+  },
+  {
+    "route_id": "215-U",
+    "source": "Chintamani Dnyanpith",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "216A-D",
+    "source": "Mandai",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "216A-U",
+    "source": "Katraj",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "216B-D",
+    "source": "Pune Vidhyapeeth",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "216B-U",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Pune Vidhyapeeth"
+  },
+  {
+    "route_id": "216C-D",
+    "source": "Mandai",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "216C-U",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "216-R",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "217A-D",
+    "source": "Gujarwadi",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "217A-U",
+    "source": "Katraj",
+    "destination": "Gujarwadi"
+  },
+  {
+    "route_id": "217B-D",
+    "source": "Gujarwadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "217B-U",
+    "source": "Swargate",
+    "destination": "Gujarwadi"
+  },
+  {
+    "route_id": "217-D",
+    "source": "Gujarwadi",
+    "destination": "Jambhulwadi"
+  },
+  {
+    "route_id": "217-U",
+    "source": "Jambhulwadi",
+    "destination": "Gujarwadi"
+  },
+  {
+    "route_id": "218-D",
+    "source": "Balewadi Depot",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "218-U",
+    "source": "Katraj",
+    "destination": "Balewadi Depot"
+  },
+  {
+    "route_id": "21A-D",
+    "source": "Ammunition Factory",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "21A-U",
+    "source": "Swargate",
+    "destination": "Ammunition Factory"
+  },
+  {
+    "route_id": "21B-D",
+    "source": "HEMRL Company",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "21B-U",
+    "source": "Swargate",
+    "destination": "HEMRL Company"
+  },
+  {
+    "route_id": "21-D",
+    "source": "Vasantdada Putala Sangvi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "21N-D",
+    "source": "Pimplenilakh",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "21N-U",
+    "source": "Swargate",
+    "destination": "Pimplenilakh"
+  },
+  {
+    "route_id": "21-U",
+    "source": "Swargate",
+    "destination": "Vasantdada Putala Sangvi"
+  },
+  {
+    "route_id": "226-D",
+    "source": "Dhayari Maruti Mandir",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "226-U",
+    "source": "Pune Station",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "227A-D",
+    "source": "Shivajinagar",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "227A-U",
+    "source": "Marketyard",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "227-D",
+    "source": "Marnewadi",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "227-U",
+    "source": "Marketyard",
+    "destination": "Marnewadi"
+  },
+  {
+    "route_id": "22A-D",
+    "source": "Khandoba Mandir",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "22A-U",
+    "source": "Swargate",
+    "destination": "Khandoba Mandir"
+  },
+  {
+    "route_id": "22-D",
+    "source": "Shivajinagar",
+    "destination": "Khandoba Mandir"
+  },
+  {
+    "route_id": "22-U",
+    "source": "Khandoba Mandir",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "230-D",
+    "source": "Pune Station",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "230-U",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "233-D",
+    "source": "Paudgaon",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "233-U",
+    "source": "Marketyard",
+    "destination": "Paudgaon"
+  },
+  {
+    "route_id": "234-D",
+    "source": "Kharadi Gaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "234-U",
+    "source": "Ma Na Pa",
+    "destination": "Kharadi Gaon"
+  },
+  {
+    "route_id": "235-D",
+    "source": "Kharadi Gaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "235-U",
+    "source": "Katraj",
+    "destination": "Kharadi Gaon"
+  },
+  {
+    "route_id": "236-D",
+    "source": "Khulewadi",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "236-U",
+    "source": "Ma Na Pa",
+    "destination": "Khulewadi"
+  },
+  {
+    "route_id": "237-D",
+    "source": "Kharadi Gaon",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "237-U",
+    "source": "Warje Malwadi",
+    "destination": "Kharadi Gaon"
+  },
+  {
+    "route_id": "23-D",
+    "source": "Pune Station",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "23-U",
+    "source": "Upper Depot",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "24A-D",
+    "source": "Maharashtra Housing Board Samtanagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "24A-U",
+    "source": "Katraj",
+    "destination": "Maharashtra Housing Board Samtanagar"
+  },
+  {
+    "route_id": "24B-D",
+    "source": "Lohgaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "24B-U",
+    "source": "Katraj",
+    "destination": "Lohgaon"
+  },
+  {
+    "route_id": "24-D",
+    "source": "Maharashtra Housing Board Samtanagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "24-NGT-D",
+    "source": "Pune Station",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "24-NGT-U",
+    "source": "Katraj",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "24-U",
+    "source": "Katraj",
+    "destination": "Maharashtra Housing Board Samtanagar"
+  },
+  {
+    "route_id": "252A-D",
+    "source": "Charholigaon",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "252A-U",
+    "source": "Vishrantwadi",
+    "destination": "Charholigaon"
+  },
+  {
+    "route_id": "252-D",
+    "source": "Charholigaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "252-U",
+    "source": "Ma Na Pa",
+    "destination": "Charholigaon"
+  },
+  {
+    "route_id": "256B-D",
+    "source": "Banergaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "256B-U",
+    "source": "Ma Na Pa",
+    "destination": "Banergaon"
+  },
+  {
+    "route_id": "256-D",
+    "source": "Balewadi Depot",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "256S-D",
+    "source": "Someshwarwadi",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "256S-U",
+    "source": "Ma Na Pa",
+    "destination": "Someshwarwadi"
+  },
+  {
+    "route_id": "256-U",
+    "source": "Ma Na Pa",
+    "destination": "Balewadi Depot"
+  },
+  {
+    "route_id": "257-D",
+    "source": "Alandi",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "257-U",
+    "source": "Kesnand Phata",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "262A-D",
+    "source": "Dehugaon",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "262A-U",
+    "source": "Nigdi",
+    "destination": "Dehugaon"
+  },
+  {
+    "route_id": "262-D",
+    "source": "Dehugaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "262-U",
+    "source": "Ma Na Pa",
+    "destination": "Dehugaon"
+  },
+  {
+    "route_id": "264-D",
+    "source": "Bahulgaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "264-U",
+    "source": "Ma Na Pa",
+    "destination": "Bahulgaon"
+  },
+  {
+    "route_id": "26-D",
+    "source": "Shivajinagar",
+    "destination": "Dhankawadi"
+  },
+  {
+    "route_id": "26-U",
+    "source": "Dhankawadi",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "276-D",
+    "source": "Chinchwadgaon",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "276-U",
+    "source": "Warje Malwadi",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "277A-D",
+    "source": "Kothrud Stand",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "277A-U",
+    "source": "Kondhwagate",
+    "destination": "Kothrud Stand"
+  },
+  {
+    "route_id": "277-D",
+    "source": "Khadki Bazar",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "277-U",
+    "source": "Kondhwagate",
+    "destination": "Khadki Bazar"
+  },
+  {
+    "route_id": "279A-U",
+    "source": "Kothrud Depo",
+    "destination": "Khamboli"
+  },
+  {
+    "route_id": "279B-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Kothrud Depo"
+  },
+  {
+    "route_id": "279-D",
+    "source": "Khamboli",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "279-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Khamboli"
+  },
+  {
+    "route_id": "27-D",
+    "source": "Shivajinagar",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "27-U",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "280-D",
+    "source": "Ma Na Pa",
+    "destination": "Warje Hanuman Chowk"
+  },
+  {
+    "route_id": "280-U",
+    "source": "Warje Hanuman Chowk",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "281-D",
+    "source": "Bhakti Shakti",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "281-U",
+    "source": "Warje Malwadi",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "282-D",
+    "source": "Bhosarigaon",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "282-U",
+    "source": "Warje Malwadi",
+    "destination": "Bhosarigaon"
+  },
+  {
+    "route_id": "283-D",
+    "source": "Pune Station",
+    "destination": "Kumbare Park"
+  },
+  {
+    "route_id": "283-U",
+    "source": "Kumbare Park",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "284-D",
+    "source": "Bhakti Shakti",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "284-U",
+    "source": "Kothrud Depot",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "286-D",
+    "source": "Azadnagar",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "286-U",
+    "source": "Warje Malwadi",
+    "destination": "Azadnagar"
+  },
+  {
+    "route_id": "28-D",
+    "source": "Shivajinagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "28-U",
+    "source": "Katraj",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "290A-D",
+    "source": "Katraj",
+    "destination": "Shaninagar"
+  },
+  {
+    "route_id": "290A-U",
+    "source": "Shaninagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "290-D",
+    "source": "Shivajinagar",
+    "destination": "Shaninagar"
+  },
+  {
+    "route_id": "290-U",
+    "source": "Shaninagar",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "291A-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "291A-U",
+    "source": "Upper Depot",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "291-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "291-U",
+    "source": "Katraj",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "292A-D",
+    "source": "Kalyangaon",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "292A-U",
+    "source": "Swargate",
+    "destination": "Kalyangaon"
+  },
+  {
+    "route_id": "292B-D",
+    "source": "Rahatwadegaon",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "292B-U",
+    "source": "Swargate",
+    "destination": "Rahatwadegaon"
+  },
+  {
+    "route_id": "292C-D",
+    "source": "Avsarwadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "292C-U",
+    "source": "Swargate",
+    "destination": "Avsarwadi"
+  },
+  {
+    "route_id": "292-D",
+    "source": "Kondhanpur",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "292D-D",
+    "source": "Swargate",
+    "destination": "Kondhanpur"
+  },
+  {
+    "route_id": "292-U",
+    "source": "Swargate",
+    "destination": "Kondhanpur"
+  },
+  {
+    "route_id": "293A-D",
+    "source": "Kusgaon",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "293A-U",
+    "source": "Swargate",
+    "destination": "Kusgaon"
+  },
+  {
+    "route_id": "293D-D",
+    "source": "Khed Shivapur",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "293D-U",
+    "source": "Swargate",
+    "destination": "Khed Shivapur"
+  },
+  {
+    "route_id": "294-D",
+    "source": "Khadakwasla Dharan",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "294-U",
+    "source": "Katraj",
+    "destination": "Khadakwasla Dharan"
+  },
+  {
+    "route_id": "295A-D",
+    "source": "Ambegaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "295A-U",
+    "source": "Katraj",
+    "destination": "Ambegaon"
+  },
+  {
+    "route_id": "295B-D",
+    "source": "Katraj",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "295-D",
+    "source": "Pune Station",
+    "destination": "Ambegaon"
+  },
+  {
+    "route_id": "295-U",
+    "source": "Ambegaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "296A-D",
+    "source": "Jambhulwadi",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "296A-U",
+    "source": "Katraj",
+    "destination": "Jambhulwadi"
+  },
+  {
+    "route_id": "296-D",
+    "source": "Shivajinagar",
+    "destination": "Jambhulwadi"
+  },
+  {
+    "route_id": "296-U",
+    "source": "Jambhulwadi",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "297-D",
+    "source": "Shivajinagar",
+    "destination": "Rajas Society"
+  },
+  {
+    "route_id": "297-U",
+    "source": "Rajas Society",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "298-D",
+    "source": "Chinchwadgaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "298-U",
+    "source": "Katraj",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "299-D",
+    "source": "Bhosarigaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "299-U",
+    "source": "Katraj",
+    "destination": "Bhosarigaon"
+  },
+  {
+    "route_id": "29A-D",
+    "source": "Alandi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "29A-U",
+    "source": "Swargate",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "29-D",
+    "source": "Vishrantwadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "29-U",
+    "source": "Swargate",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "2A-D",
+    "source": "Shivajinagar",
+    "destination": "Katraj Ladies Special"
+  },
+  {
+    "route_id": "2A-U",
+    "source": "Katraj",
+    "destination": "Shivajinagar Ladies Special"
+  },
+  {
+    "route_id": "2B-D",
+    "source": "Shivajinagar",
+    "destination": "Bhilarewadi"
+  },
+  {
+    "route_id": "2B-U",
+    "source": "Bhilarewadi",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "2-D",
+    "source": "Shivajinagar",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "2D-D",
+    "source": "Sachchai Mata Mandir",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "2E-D",
+    "source": "Sachchai Mata Mandir",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "2E-U",
+    "source": "Swargate",
+    "destination": "Sachchai Mata Mandir"
+  },
+  {
+    "route_id": "2F-D",
+    "source": "Taljai Pathar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "2G-U",
+    "source": "Taljai Pathar",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "2H-D",
+    "source": "Sachchai Mata Mandir",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "2H-U",
+    "source": "Shivajinagar",
+    "destination": "Sachchai Mata Mandir"
+  },
+  {
+    "route_id": "2I-D",
+    "source": "Pune Vidhyapeeth",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "2I-U",
+    "source": "Katraj",
+    "destination": "Pune Vidhyapeeth"
+  },
+  {
+    "route_id": "2J-D",
+    "source": "Bhilarewadi",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "2J-U",
+    "source": "Katraj",
+    "destination": "Bhilarewadi"
+  },
+  {
+    "route_id": "2K-D",
+    "source": "Shivajinagar",
+    "destination": "Narhegaon"
+  },
+  {
+    "route_id": "2K-U",
+    "source": "Narhegaon",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "2L-D",
+    "source": "Katraj",
+    "destination": "Narhegaon"
+  },
+  {
+    "route_id": "2L-U",
+    "source": "Narhegaon",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "2-NGT-D",
+    "source": "Shivajinagar",
+    "destination": "Katraj Night Service"
+  },
+  {
+    "route_id": "2-NGT-U",
+    "source": "Katraj",
+    "destination": "Shivajinagar Night Service"
+  },
+  {
+    "route_id": "2-U",
+    "source": "Katraj",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "301-D",
+    "source": "Shewalwadi",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "301-U",
+    "source": "Katraj",
+    "destination": "Shewalwadi"
+  },
+  {
+    "route_id": "302A-D",
+    "source": "Alandi",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "302A-U",
+    "source": "Pimprigaon",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "302B-D",
+    "source": "Bopkhel",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "302B-U",
+    "source": "Pimprigaon",
+    "destination": "Bopkhel"
+  },
+  {
+    "route_id": "302C-D",
+    "source": "Gavhanevasti Bhosari",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "302C-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Gavhanevasti Bhosari"
+  },
+  {
+    "route_id": "302-D",
+    "source": "Gavhanevasti Bhosari",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "302D-D",
+    "source": "Pimprigaon",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "302D-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "302-U",
+    "source": "Pimprigaon",
+    "destination": "Gavhanevasti Bhosari"
+  },
+  {
+    "route_id": "303A-D",
+    "source": "Mukai Chowk",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "303A-U",
+    "source": "Nigdi",
+    "destination": "Mukai Chowk"
+  },
+  {
+    "route_id": "303-D",
+    "source": "Akurdi Railway Station",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "303-U",
+    "source": "Nigdi",
+    "destination": "Akurdi Railway Station"
+  },
+  {
+    "route_id": "304A-D",
+    "source": "Bhosari",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "304A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "304-D",
+    "source": "Gavhanevasti Bhosari",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "304-U",
+    "source": "Chinchwadgaon",
+    "destination": "Gavhanevasti Bhosari"
+  },
+  {
+    "route_id": "305A-D",
+    "source": "Dy Patil College Wadgaonmawal",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "305A-U",
+    "source": "Nigdi",
+    "destination": "Dy Patil College Wadgaonmawal"
+  },
+  {
+    "route_id": "305B-D",
+    "source": "Navlakh Umbre",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "305B-U",
+    "source": "Nigdi",
+    "destination": "Navlakh Umbre"
+  },
+  {
+    "route_id": "305-D",
+    "source": "Vadgaon Mawal",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "305-U",
+    "source": "Nigdi",
+    "destination": "Vadgaon Mawal"
+  },
+  {
+    "route_id": "306-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Dange Chowk"
+  },
+  {
+    "route_id": "306-U",
+    "source": "Dange Chowk",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "307A-D",
+    "source": "Chinchwadgaon",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "307A-U",
+    "source": "Bhakti Shakti",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "307-D",
+    "source": "Walhekarwadi",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "307-U",
+    "source": "Chinchwadgaon",
+    "destination": "Walhekarwadi"
+  },
+  {
+    "route_id": "308-D",
+    "source": "Gharkul Vasahat Chikhli",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "308-U",
+    "source": "Bhakti Shakti",
+    "destination": "Gharkul Vasahat Chikhli"
+  },
+  {
+    "route_id": "309-D",
+    "source": "Dehugaon",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "309-U",
+    "source": "Alandi",
+    "destination": "Dehugaon"
+  },
+  {
+    "route_id": "30A-D",
+    "source": "Rautwadi",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "30A-U",
+    "source": "Marketyard",
+    "destination": "Rautwadi"
+  },
+  {
+    "route_id": "30-D",
+    "source": "Ghotawade Phata",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "30-U",
+    "source": "Marketyard",
+    "destination": "Ghotawade Phata"
+  },
+  {
+    "route_id": "310A-D",
+    "source": "Walhekarwadi",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "310A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Walhekarwadi"
+  },
+  {
+    "route_id": "310-D",
+    "source": "Walhekarwadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "310-U",
+    "source": "Pune Station",
+    "destination": "Walhekarwadi"
+  },
+  {
+    "route_id": "311-D",
+    "source": "Pimprigaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "311-U",
+    "source": "Pune Station",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "312-D",
+    "source": "Chinchwadgaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "312-U",
+    "source": "Pune Station",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "313A-D",
+    "source": "Kasarsai Karkhana",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "313A-U",
+    "source": "Chinchwadgaon",
+    "destination": "Kasarsai Karkhana"
+  },
+  {
+    "route_id": "313B-D",
+    "source": "Bhakti Shakti",
+    "destination": "Kasarsai Karkhana"
+  },
+  {
+    "route_id": "313C-D",
+    "source": "Nehrunagar Depo",
+    "destination": "Chandkhed"
+  },
+  {
+    "route_id": "313-D",
+    "source": "Chandkhed",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "313D-D",
+    "source": "Bhakti Shakti",
+    "destination": "Chandkhed"
+  },
+  {
+    "route_id": "313-U",
+    "source": "Chinchwadgaon",
+    "destination": "Chandkhed"
+  },
+  {
+    "route_id": "314-D",
+    "source": "Mhalunge MIDC",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "314-U",
+    "source": "Bhakti Shakti",
+    "destination": "Mhalunge MIDC"
+  },
+  {
+    "route_id": "315A-D",
+    "source": "Moshigaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "315A-U",
+    "source": "Pune Station",
+    "destination": "Moshigaon"
+  },
+  {
+    "route_id": "315-D",
+    "source": "Bhosari",
+    "destination": "Pune Station (Vai Alandi Road)"
+  },
+  {
+    "route_id": "315D-U",
+    "source": "Ma Na Pa",
+    "destination": "Dhanorigaon"
+  },
+  {
+    "route_id": "315-U",
+    "source": "Pune Station",
+    "destination": "Bhosari (Vai Alandi Road)"
+  },
+  {
+    "route_id": "316-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "316-U",
+    "source": "Chinchwadgaon",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "317A-D",
+    "source": "Dapodi",
+    "destination": "Sambhajinagar"
+  },
+  {
+    "route_id": "317B-D",
+    "source": "Pune Station",
+    "destination": "Dapodi"
+  },
+  {
+    "route_id": "317-D",
+    "source": "Sambhajinagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "317-U",
+    "source": "Pune Station",
+    "destination": "Sambhajinagar"
+  },
+  {
+    "route_id": "318A-D",
+    "source": "Gharkul Vasahat Chikali",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "318A-U",
+    "source": "Pune Station",
+    "destination": "Gharkul Vasahat Chikali"
+  },
+  {
+    "route_id": "318-D",
+    "source": "Krishanagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "318-U",
+    "source": "Pune Station",
+    "destination": "Krushnanagar"
+  },
+  {
+    "route_id": "319-D",
+    "source": "Vadgaon Mawal",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "319-U",
+    "source": "Alandi",
+    "destination": "Vadgaon Mawal"
+  },
+  {
+    "route_id": "31A-D",
+    "source": "Pune Station",
+    "destination": "Padmawati"
+  },
+  {
+    "route_id": "31A-U",
+    "source": "Padmawati",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "31-D",
+    "source": "Pune Station",
+    "destination": "Taljai Pathar"
+  },
+  {
+    "route_id": "31-U",
+    "source": "Taljai Pathar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "320-D",
+    "source": "Mahalungegaon",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "320-U",
+    "source": "Alandi",
+    "destination": "Mahalungegaon"
+  },
+  {
+    "route_id": "321A-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Pimpale Gurav"
+  },
+  {
+    "route_id": "321A-U",
+    "source": "Pimple Gurav",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "321-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Vasasantdada Putla Sangvi"
+  },
+  {
+    "route_id": "321-U",
+    "source": "Vasasantdada Putla Sangvi",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "322A-D",
+    "source": "Akurdi Railway Station",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "322A-U",
+    "source": "Warje Malwadi",
+    "destination": "Akurdi Railway Station"
+  },
+  {
+    "route_id": "322K-D",
+    "source": "Akurdi Railway Station",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "322K-U",
+    "source": "Ma Na Pa",
+    "destination": "Akurdi Railway Station"
+  },
+  {
+    "route_id": "323A-D",
+    "source": "Gharkul Vasahat Chikhli",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "323A-U",
+    "source": "Ma Na Pa",
+    "destination": "Gharkul Vasahat Chikhli"
+  },
+  {
+    "route_id": "323B-D",
+    "source": "Chikhali",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "323B-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "323C-D",
+    "source": "Gharkul Vasahat Chikhali",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "323C-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Gharkul Vasahat Chikhali"
+  },
+  {
+    "route_id": "323-D",
+    "source": "Chikhali",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "323-U",
+    "source": "Ma Na Pa",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "324-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "324-U",
+    "source": "Bhosari",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "325A-D",
+    "source": "Masulkar Colony",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "325A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Masulkar Colony"
+  },
+  {
+    "route_id": "325-D",
+    "source": "Masulkar Colony",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "325-U",
+    "source": "Pune Station",
+    "destination": "Masulkar Colony"
+  },
+  {
+    "route_id": "326A-D",
+    "source": "Chikhali",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "326A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "326B-D",
+    "source": "Nehrunagar Depo",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "326-D",
+    "source": "Chikhali",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "326-U",
+    "source": "Pimprigaon",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "327A-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "327A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "327B-D",
+    "source": "Bhosari",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "327C-D",
+    "source": "Alandi",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "327C-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "327-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "327-U",
+    "source": "Alandi",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "328A-D",
+    "source": "Rupeenagar",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "328A-U",
+    "source": "Nigdi",
+    "destination": "Rupeenagar"
+  },
+  {
+    "route_id": "329A-D",
+    "source": "Dehugaon",
+    "destination": "Pune Station (Via Yarwada)"
+  },
+  {
+    "route_id": "329A-U",
+    "source": "Pune Station",
+    "destination": "Dehugaon (Via Yarwada)"
+  },
+  {
+    "route_id": "329-D",
+    "source": "Dehugaon",
+    "destination": "Pune Station (Via Wakdevadi)"
+  },
+  {
+    "route_id": "329-U",
+    "source": "Pune Station",
+    "destination": "Dehugaon (Via Wakdevadi)"
+  },
+  {
+    "route_id": "32-D",
+    "source": "Alandi",
+    "destination": "Bharati Vidyapeeth"
+  },
+  {
+    "route_id": "32-U",
+    "source": "Bharati Vidyapeeth",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "331A-D",
+    "source": "Rahatnigaon",
+    "destination": "Gavhanevasti Bhosari"
+  },
+  {
+    "route_id": "331A-U",
+    "source": "Gavhanevasti Bhosari",
+    "destination": "Rahatnigaon"
+  },
+  {
+    "route_id": "331B-D",
+    "source": "Rahatnigaon",
+    "destination": "Charholigaon"
+  },
+  {
+    "route_id": "331B-U",
+    "source": "Charholigaon",
+    "destination": "Rahatnigaon"
+  },
+  {
+    "route_id": "331C-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Rahatnigaon"
+  },
+  {
+    "route_id": "331-D",
+    "source": "Rahatnigaon",
+    "destination": "Charholigaon"
+  },
+  {
+    "route_id": "331D-U",
+    "source": "Charholigaon",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "331-U",
+    "source": "Charholigaon",
+    "destination": "Rahatnigaon"
+  },
+  {
+    "route_id": "332A-D",
+    "source": "Pimple Saudagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "332A-U",
+    "source": "Ma Na Pa",
+    "destination": "Pimple Saudagar"
+  },
+  {
+    "route_id": "332-D",
+    "source": "Pimpri",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "332-U",
+    "source": "Pune Station",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "333-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "333-U",
+    "source": "Pune Station",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "334-D",
+    "source": "Gharkul Vasahat Chikhali",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "334-U",
+    "source": "Pimprigaon",
+    "destination": "Gharkul Vasahat Chikhli"
+  },
+  {
+    "route_id": "335A-D",
+    "source": "Jambe",
+    "destination": "Dange Chowk"
+  },
+  {
+    "route_id": "335A-U",
+    "source": "Dange Chowk",
+    "destination": "Jambe"
+  },
+  {
+    "route_id": "335B-D",
+    "source": "Dange Chowk",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "335B-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Dange Chowk"
+  },
+  {
+    "route_id": "336-D",
+    "source": "Bhakti Shakti",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "336-U",
+    "source": "Kesnand Phata",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "337-D",
+    "source": "Bhakti Shakti",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "337-U",
+    "source": "Dhayari Maruti Mandir",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "339B-D",
+    "source": "Indrayaninagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "339B-U",
+    "source": "Pune Station",
+    "destination": "Indrayaninagar"
+  },
+  {
+    "route_id": "339-D",
+    "source": "Santnagar MIDC Police Station",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "339-U",
+    "source": "Katraj",
+    "destination": "Santnagar MIDC Police Station"
+  },
+  {
+    "route_id": "33A-D",
+    "source": "Na Ta Wadi",
+    "destination": "Padmawati"
+  },
+  {
+    "route_id": "33A-U",
+    "source": "Padmawati",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "33-D",
+    "source": "Na Ta Wadi",
+    "destination": "Taljai Pathar"
+  },
+  {
+    "route_id": "33-U",
+    "source": "Taljai Pathar",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "341-D",
+    "source": "Mohannagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "341-U",
+    "source": "Ma Na Pa",
+    "destination": "Mohannagar"
+  },
+  {
+    "route_id": "344A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Pimple Nilakh"
+  },
+  {
+    "route_id": "344B-U",
+    "source": "Alandi",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "344-D",
+    "source": "Pimple Nilakh",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "344-U",
+    "source": "Alandi",
+    "destination": "Pimple Nilakh"
+  },
+  {
+    "route_id": "345-D",
+    "source": "Thergaon",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "345-U",
+    "source": "Pune Station",
+    "destination": "Thergaon"
+  },
+  {
+    "route_id": "347A-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Dapodi Mantri Niketan"
+  },
+  {
+    "route_id": "347-D",
+    "source": "Dapodi",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "347-U",
+    "source": "Alandi",
+    "destination": "Dapodi"
+  },
+  {
+    "route_id": "348-D",
+    "source": "Nigdi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "348-U",
+    "source": "Pune Station",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "350A-D",
+    "source": "Dehugaon",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "350A-U",
+    "source": "Pimprigaon",
+    "destination": "Dehugaon"
+  },
+  {
+    "route_id": "350B-D",
+    "source": "Bhakti Shakti",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "350B-U",
+    "source": "Pimprigaon",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "350-D",
+    "source": "Dehugaon",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "350-U",
+    "source": "Nigdi",
+    "destination": "Dehugaon"
+  },
+  {
+    "route_id": "351A-D",
+    "source": "Jambe",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "351A-U",
+    "source": "Bhosari",
+    "destination": "Jambe"
+  },
+  {
+    "route_id": "351-D",
+    "source": "Jambe",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "351-U",
+    "source": "Alandi",
+    "destination": "Jambe"
+  },
+  {
+    "route_id": "354A-D",
+    "source": "Pimpri",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "354A-U",
+    "source": "Marketyard",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "354-D",
+    "source": "Pimprigaon",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "354-U",
+    "source": "Marketyard",
+    "destination": "Pimprigaon"
+  },
+  {
+    "route_id": "355-D",
+    "source": "Chikhali",
+    "destination": "Dange Chowk"
+  },
+  {
+    "route_id": "355-U",
+    "source": "Dange Chowk",
+    "destination": "Chikhali"
+  },
+  {
+    "route_id": "357-D",
+    "source": "Rajgurunagar",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "357-U",
+    "source": "Pune Station",
+    "destination": "Rajgurunagar"
+  },
+  {
+    "route_id": "358-D",
+    "source": "Rajgurunagar",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "358-U",
+    "source": "Bhosari",
+    "destination": "Rajgurunagar"
+  },
+  {
+    "route_id": "360-D",
+    "source": "Balewadi Depot",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "360-U",
+    "source": "Alandi",
+    "destination": "Balewadi Depot"
+  },
+  {
+    "route_id": "361-D",
+    "source": "Bhosari Terminal",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "361-U",
+    "source": "Alandi",
+    "destination": "Bhosari Terminal"
+  },
+  {
+    "route_id": "362A-D",
+    "source": "Alandi",
+    "destination": "YCM Hospital (Via Moshi)"
+  },
+  {
+    "route_id": "362A-U",
+    "source": "YCM Hospital",
+    "destination": "Alandi (Via Moshi)"
+  },
+  {
+    "route_id": "362B-D",
+    "source": "YCM Hospital",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "362B-U",
+    "source": "Bhosari",
+    "destination": "YCM Hospital"
+  },
+  {
+    "route_id": "362-D",
+    "source": "YCM Hospital",
+    "destination": "Alandi"
+  },
+  {
+    "route_id": "362-U",
+    "source": "Alandi",
+    "destination": "YCM Hospital"
+  },
+  {
+    "route_id": "363A-D",
+    "source": "Kiwalegaon",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "363A-U",
+    "source": "Nigdi",
+    "destination": "Kiwalegaon"
+  },
+  {
+    "route_id": "363-D",
+    "source": "Adarshnagar",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "363-U",
+    "source": "Nigdi",
+    "destination": "Adarshnagar"
+  },
+  {
+    "route_id": "366A-D",
+    "source": "Bhapkar Petrol Pump",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "366A-U",
+    "source": "Bhakti Shakti",
+    "destination": "Bhapkar Petrol Pump"
+  },
+  {
+    "route_id": "366B-U",
+    "source": "Pune Station",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "366C-D",
+    "source": "Katraj",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "366-D",
+    "source": "Bhakti Shakti",
+    "destination": "Pune Station (Via Yerwada)"
+  },
+  {
+    "route_id": "366-U",
+    "source": "Pune Station",
+    "destination": "Bhakti Shakti (Via Yerwada)"
+  },
+  {
+    "route_id": "367A-D",
+    "source": "Santnagar MIDC Police Station",
+    "destination": "Akurdi Railway Station"
+  },
+  {
+    "route_id": "367A-U",
+    "source": "Akurdi Railway Station",
+    "destination": "Santnagar MIDC Police Station"
+  },
+  {
+    "route_id": "367B-D",
+    "source": "Gharkul Vasahat",
+    "destination": "Bhosari Terminal"
+  },
+  {
+    "route_id": "367B-U",
+    "source": "Bhosari Terminal",
+    "destination": "Gharkul Vasahat"
+  },
+  {
+    "route_id": "367C-D",
+    "source": "Akurdi Railway Station",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "367C-U",
+    "source": "Bhosari",
+    "destination": "Akurdi Railway Station"
+  },
+  {
+    "route_id": "367-D",
+    "source": "Gavhanevasti Bhosari",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "367-U",
+    "source": "Nigdi",
+    "destination": "Gavhanevasti Bhosari"
+  },
+  {
+    "route_id": "36-D",
+    "source": "Chinchwadgaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "36-U",
+    "source": "Ma Na Pa",
+    "destination": "Chinchwadgaon"
+  },
+  {
+    "route_id": "370-R",
+    "source": "Pimpri",
+    "destination": "Pimpri"
+  },
+  {
+    "route_id": "372-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "372-U",
+    "source": "Bhakti Shakti",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "373-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Wakad pul"
+  },
+  {
+    "route_id": "373-U",
+    "source": "Wakad Pul",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "376A-D",
+    "source": "Bhakti Shakti",
+    "destination": "Warje Malwadi (Vai YCM)"
+  },
+  {
+    "route_id": "376A-U",
+    "source": "Warje Malwadi",
+    "destination": "Bhakti Shakti (Vai YCM)"
+  },
+  {
+    "route_id": "376B-D",
+    "source": "Bhakti Shakti",
+    "destination": "Shewalwadi (Vai YCM)"
+  },
+  {
+    "route_id": "376B-U",
+    "source": "Shewalwadi",
+    "destination": "Bhakti Shakti (Vai YCM)"
+  },
+  {
+    "route_id": "376-D",
+    "source": "Bhakti Shakti",
+    "destination": "Katraj (Vai YCM)"
+  },
+  {
+    "route_id": "376D-D",
+    "source": "Bhakti Shakti",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "376D-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "376E-D",
+    "source": "Warje Malwadi",
+    "destination": "Nehrunagar Depo (Vai YCM)"
+  },
+  {
+    "route_id": "376F-D",
+    "source": "Sambhajinagar",
+    "destination": "Nehrunagar Depo"
+  },
+  {
+    "route_id": "376F-U",
+    "source": "Nehrunagar Depo",
+    "destination": "Sambhajinagar"
+  },
+  {
+    "route_id": "376G-D",
+    "source": "Shewalwadi",
+    "destination": "Nehrunagar Depo (Vai YCM)"
+  },
+  {
+    "route_id": "376H-U",
+    "source": "Katraj",
+    "destination": "Nehrunagar Depo (Vai YCM)"
+  },
+  {
+    "route_id": "376K-D",
+    "source": "Sambhajinagar",
+    "destination": "Katraj (Vai YCM)"
+  },
+  {
+    "route_id": "376K-U",
+    "source": "Katraj",
+    "destination": "Sambhajinagar (Vai YCM)"
+  },
+  {
+    "route_id": "376-U",
+    "source": "Katraj",
+    "destination": "Bhakti Shakti (Vai YCM)"
+  },
+  {
+    "route_id": "37-D",
+    "source": "Na Ta Wadi",
+    "destination": "Sahkarnagar"
+  },
+  {
+    "route_id": "37-U",
+    "source": "Sahkarnagar",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "38-D",
+    "source": "Na Ta Wadi",
+    "destination": "Dhankawadi"
+  },
+  {
+    "route_id": "38-U",
+    "source": "Dhankawadi",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "39-D",
+    "source": "Pune Station",
+    "destination": "Dhankawadi"
+  },
+  {
+    "route_id": "39-U",
+    "source": "Dhankawadi",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "3-D",
+    "source": "Pune Station",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "3-U",
+    "source": "Swargate",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "40-D",
+    "source": "Mandai",
+    "destination": "Saket Society"
+  },
+  {
+    "route_id": "40-U",
+    "source": "Saket Society",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "41-U",
+    "source": "Upper Depot",
+    "destination": "Sangvi"
+  },
+  {
+    "route_id": "41-D",
+    "source": "Sangvi",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "42-D",
+    "source": "Bhakti Shakti",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "42-U",
+    "source": "Katraj",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "43A-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "43A-U",
+    "source": "Katraj",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "43-D",
+    "source": "Bhakti Shakti",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "43-U",
+    "source": "Katraj",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "46-D",
+    "source": "Lohgaon",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "46-U",
+    "source": "Upper Depot",
+    "destination": "Lohgaon"
+  },
+  {
+    "route_id": "47A-D",
+    "source": "Vadgaon Bk",
+    "destination": "Shaniwarwada Stand"
+  },
+  {
+    "route_id": "47A-U",
+    "source": "Shaniwarwada Stand",
+    "destination": "Vadgaon Bk"
+  },
+  {
+    "route_id": "47-D",
+    "source": "Sanaswadi Nandoshi",
+    "destination": "Shaniwarwada"
+  },
+  {
+    "route_id": "47-U",
+    "source": "Shaniwarwada",
+    "destination": "Sanaswadi Nandoshi"
+  },
+  {
+    "route_id": "48-D",
+    "source": "Venutai Chavan College",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "48-U",
+    "source": "Pune Station",
+    "destination": "Venutai Chavan College"
+  },
+  {
+    "route_id": "49-D",
+    "source": "Khanapur",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "49-U",
+    "source": "Pune Station",
+    "destination": "Khanapur"
+  },
+  {
+    "route_id": "50B-D",
+    "source": "Sinhgad Paytha",
+    "destination": "Natraj Stand"
+  },
+  {
+    "route_id": "50B-U",
+    "source": "Natraj Stand",
+    "destination": "Sinhgad Paytha"
+  },
+  {
+    "route_id": "50-D",
+    "source": "Sinhagad",
+    "destination": "Shaniwarwada"
+  },
+  {
+    "route_id": "50-U",
+    "source": "Shaniwarwada",
+    "destination": "Sinhagad"
+  },
+  {
+    "route_id": "51A-D",
+    "source": "DSK Vishwa",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "51A-U",
+    "source": "Shivajinagar",
+    "destination": "DSK Vishwa"
+  },
+  {
+    "route_id": "51-D",
+    "source": "Dhayari Maruti Mandi",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "51-U",
+    "source": "Shivajinagar",
+    "destination": "Dhayari Maruti Mandi"
+  },
+  {
+    "route_id": "52A-D",
+    "source": "Osade Phata",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "52A-U",
+    "source": "Swargate",
+    "destination": "Osade Phata"
+  },
+  {
+    "route_id": "52B-D",
+    "source": "Khanapur",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "52B-U",
+    "source": "Marketyard",
+    "destination": "Khanapur"
+  },
+  {
+    "route_id": "52-D",
+    "source": "Khanapur",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "52-U",
+    "source": "Swargate",
+    "destination": "Khanapur"
+  },
+  {
+    "route_id": "53B-D",
+    "source": "Swargate",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "53-D",
+    "source": "DSK Vishwa",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "53-U",
+    "source": "Shivajinagar",
+    "destination": "DSK Vishwa"
+  },
+  {
+    "route_id": "54A-D",
+    "source": "Vadgaon Bk",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "54A-U",
+    "source": "Na Ta Wadi",
+    "destination": "Vadgaon Bk"
+  },
+  {
+    "route_id": "54B-D",
+    "source": "Na Ta Wadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "54B-U",
+    "source": "Swargate",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "54-D",
+    "source": "Venutai Chavan College",
+    "destination": "Na Ta Wadi"
+  },
+  {
+    "route_id": "54-U",
+    "source": "Na Ta Wadi",
+    "destination": "Venutai Chavan College"
+  },
+  {
+    "route_id": "55-D",
+    "source": "Mandai",
+    "destination": "Suncity"
+  },
+  {
+    "route_id": "55-U",
+    "source": "Suncity",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "56-D",
+    "source": "Mandai",
+    "destination": "Vadgaon Bk"
+  },
+  {
+    "route_id": "56-U",
+    "source": "Vadgaon Bk",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "57A-D",
+    "source": "Suncity",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "57A-U",
+    "source": "Pune Station",
+    "destination": "Suncity"
+  },
+  {
+    "route_id": "57-D",
+    "source": "Vadgaon Bk",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "57-U",
+    "source": "Pune Station",
+    "destination": "Vadgaon Bk"
+  },
+  {
+    "route_id": "58A-D",
+    "source": "Pandavnagar",
+    "destination": "Shanipar"
+  },
+  {
+    "route_id": "58A-U",
+    "source": "Shanipar",
+    "destination": "Pandavnagar"
+  },
+  {
+    "route_id": "58-D",
+    "source": "Gokhalenagar",
+    "destination": "Shanipar"
+  },
+  {
+    "route_id": "58P-D",
+    "source": "Pandavnagar Senapati Bapat Road",
+    "destination": "Shanipar"
+  },
+  {
+    "route_id": "58P-U",
+    "source": "Shanipar",
+    "destination": "Pandavnagar Senapati Bapat Road"
+  },
+  {
+    "route_id": "58-U",
+    "source": "Shanipar",
+    "destination": "Gokhalenagar"
+  },
+  {
+    "route_id": "59-D",
+    "source": "Niljyoti",
+    "destination": "Shanipar"
+  },
+  {
+    "route_id": "59-U",
+    "source": "Shanipar",
+    "destination": "Niljyoti"
+  },
+  {
+    "route_id": "5A-D",
+    "source": "Tadiwala Road",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "5A-U",
+    "source": "Swargate",
+    "destination": "Tadiwala Road"
+  },
+  {
+    "route_id": "5-D",
+    "source": "Pune Station",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "5-U",
+    "source": "Swargate",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "60A-D",
+    "source": "Ghulenagar",
+    "destination": "Natraj Stand"
+  },
+  {
+    "route_id": "60A-U",
+    "source": "Natraj Stand",
+    "destination": "Ghulenagar"
+  },
+  {
+    "route_id": "60-D",
+    "source": "Ghulenager",
+    "destination": "Shaniwarwada Stand"
+  },
+  {
+    "route_id": "60-U",
+    "source": "Shaniwarwada Stand",
+    "destination": "Ghulenager"
+  },
+  {
+    "route_id": "61-D",
+    "source": "Nasrapur",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "61-U",
+    "source": "Swargate",
+    "destination": "Nasrapur"
+  },
+  {
+    "route_id": "62A-D",
+    "source": "Marketyard",
+    "destination": "Sangamwadi"
+  },
+  {
+    "route_id": "62-D",
+    "source": "Sangamwadi",
+    "destination": "Sukhsagarnagar"
+  },
+  {
+    "route_id": "62-U",
+    "source": "Sukhsagarnagar",
+    "destination": "Sangamwadi"
+  },
+  {
+    "route_id": "63-D",
+    "source": "Kalyaninagar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "63-U",
+    "source": "Swargate",
+    "destination": "Kalyaninagar"
+  },
+  {
+    "route_id": "64A-D",
+    "source": "Warje Malwadi",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "64A-U",
+    "source": "Swargate",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "64B-D",
+    "source": "Gujrat Colony",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "64B-U",
+    "source": "Upper Depot",
+    "destination": "Gujrat Colony"
+  },
+  {
+    "route_id": "64C-D",
+    "source": "Swargate",
+    "destination": "Gujrat Colony"
+  },
+  {
+    "route_id": "64-D",
+    "source": "Warje Malwadi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "64-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "65A-D",
+    "source": "Marketyard",
+    "destination": "Upper Depo"
+  },
+  {
+    "route_id": "65A-U",
+    "source": "Upper Depo",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "65-D",
+    "source": "Maharashtra Housing Board Samtanagar",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "65-U",
+    "source": "Upper Depot",
+    "destination": "Maharashtra Housing Board Samtanagar"
+  },
+  {
+    "route_id": "66A-D",
+    "source": "Shaniwarwada",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "66A-U",
+    "source": "Marketyard",
+    "destination": "Shaniwarwada"
+  },
+  {
+    "route_id": "66-D",
+    "source": "Agalambegaon",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "66-U",
+    "source": "Marketyard",
+    "destination": "Agalambegaon"
+  },
+  {
+    "route_id": "67-D",
+    "source": "Kharadi Gaon",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "67-U",
+    "source": "Swargate",
+    "destination": "Kharadi Gaon"
+  },
+  {
+    "route_id": "68A-D",
+    "source": "Sukhsagarnagar",
+    "destination": "Kumbare Park"
+  },
+  {
+    "route_id": "68A-U",
+    "source": "Kumbare Park",
+    "destination": "Sukhsagarnagar"
+  },
+  {
+    "route_id": "68B-D",
+    "source": "Venutai Chavan College",
+    "destination": "Kothrud Depo"
+  },
+  {
+    "route_id": "68B-U",
+    "source": "Kothrud Depo",
+    "destination": "Venutai Chavan College"
+  },
+  {
+    "route_id": "68S-D",
+    "source": "Upper Depot",
+    "destination": "Sutardara"
+  },
+  {
+    "route_id": "68S-U",
+    "source": "Sutardara",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "69-D",
+    "source": "Ghotawadegaon",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "69-U",
+    "source": "Marketyard",
+    "destination": "Ghotawadegaon"
+  },
+  {
+    "route_id": "70A-D",
+    "source": "Shasakiya Vishramgruha Paudgaon",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "70A-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Shasakiya Vishramgruha Paudgaon"
+  },
+  {
+    "route_id": "70B-D",
+    "source": "Shasakiya Vishramgruha Paudgaon",
+    "destination": "Kothrud Depo"
+  },
+  {
+    "route_id": "70B-U",
+    "source": "Kothrud Depo",
+    "destination": "Shasakiya Vishramgruha Paudgaon"
+  },
+  {
+    "route_id": "70C-D",
+    "source": "Sheregaon",
+    "destination": "Kothrud Depo"
+  },
+  {
+    "route_id": "70C-U",
+    "source": "Kothrud Depo",
+    "destination": "Sheregaon"
+  },
+  {
+    "route_id": "70-D",
+    "source": "Sheregaon",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "70-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Sheregaon"
+  },
+  {
+    "route_id": "71-D",
+    "source": "Sukhsagarnagar",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "71-U",
+    "source": "Kothrud Depot",
+    "destination": "Sukhsagarnagar"
+  },
+  {
+    "route_id": "72A-D",
+    "source": "Swargate",
+    "destination": "Upper Depo"
+  },
+  {
+    "route_id": "72A-U",
+    "source": "Upper Depo",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "72-D",
+    "source": "Kondhwagate",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "72-U",
+    "source": "Upper Depot",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "73-D",
+    "source": "Kothrud Depot",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "73-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "75-D",
+    "source": "Vidyanagar",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "75-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Vidyanagar"
+  },
+  {
+    "route_id": "76-D",
+    "source": "Upper Depot",
+    "destination": "Kumbare Park"
+  },
+  {
+    "route_id": "76-U",
+    "source": "Kumbare Park",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "77-R",
+    "source": "Warje Malwadi",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "78A-D",
+    "source": "Warje Malwadi",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "78A-U",
+    "source": "Marketyard",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "78-D",
+    "source": "Kondhwagate",
+    "destination": "Marketyard"
+  },
+  {
+    "route_id": "78-U",
+    "source": "Marketyard",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "79B-U",
+    "source": "Kothrud Depo",
+    "destination": "Ghotawade Phata"
+  },
+  {
+    "route_id": "79C-D",
+    "source": "Deccan Gymkhana",
+    "destination": "Kothrud Depo"
+  },
+  {
+    "route_id": "79C-U",
+    "source": "Kothrud Depo",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "79-D",
+    "source": "Mugawade",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "79D-D",
+    "source": "Deccan Gymkhana",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "79D-U",
+    "source": "Warje Malwadi",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "79-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Mugawade"
+  },
+  {
+    "route_id": "7A-D",
+    "source": "Uruli Kanchan",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "7A-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Uruli Kanchan"
+  },
+  {
+    "route_id": "7B-D",
+    "source": "Manjari Kh",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "7B-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Manjari Kh"
+  },
+  {
+    "route_id": "7-D",
+    "source": "Uruli Kanchan",
+    "destination": "Sarasbaug"
+  },
+  {
+    "route_id": "7-U",
+    "source": "Sarasbaug",
+    "destination": "Uruli Kanchan"
+  },
+  {
+    "route_id": "80A-D",
+    "source": "Aditya Garden City",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "80A-U",
+    "source": "Ma Na Pa",
+    "destination": "Aditya Garden City"
+  },
+  {
+    "route_id": "80B-D",
+    "source": "Popularnagar",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "80B-U",
+    "source": "Ma Na Pa",
+    "destination": "Popularnagar"
+  },
+  {
+    "route_id": "80-D",
+    "source": "Cipla Center",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "80-U",
+    "source": "Ma Na Pa",
+    "destination": "Cipla Center"
+  },
+  {
+    "route_id": "81-D",
+    "source": "Pune Station",
+    "destination": "Kumbare Park"
+  },
+  {
+    "route_id": "81-U",
+    "source": "Kumbare Park",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "82A-D",
+    "source": "Ma Na Pa",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "82A-U",
+    "source": "Warje Malwadi",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "82B-D",
+    "source": "Kondhwagate",
+    "destination": "Kothrud Stand"
+  },
+  {
+    "route_id": "82C-U",
+    "source": "Kondhwagate",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "82D-U",
+    "source": "Kothrud Depo",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "82E-U",
+    "source": "Kondhwagate",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "82-R",
+    "source": "Kondhwagate",
+    "destination": "Kondhwagate"
+  },
+  {
+    "route_id": "84A-D",
+    "source": "Kondhur Phata",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "84A-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Kondhur Phata"
+  },
+  {
+    "route_id": "84B-U",
+    "source": "Kothrud Stand",
+    "destination": "Sangrun"
+  },
+  {
+    "route_id": "84C-D",
+    "source": "Kondhur Phata",
+    "destination": "Kothrud Stand"
+  },
+  {
+    "route_id": "84C-U",
+    "source": "Kothrud Stand",
+    "destination": "Kondhur Phata"
+  },
+  {
+    "route_id": "84-D",
+    "source": "Sangrun",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "84-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Sangrun"
+  },
+  {
+    "route_id": "85A-U",
+    "source": "Khothrud Stand",
+    "destination": "Mohakarwadi"
+  },
+  {
+    "route_id": "85-D",
+    "source": "Mohakarwadi",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "85-U",
+    "source": "Ma Na Pa",
+    "destination": "Mohakarwadi"
+  },
+  {
+    "route_id": "86-R",
+    "source": "Kothrud Depot",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "87-D",
+    "source": "Sutarwadi",
+    "destination": "Deccan Gymkhana (Vai Bhagvatinagar)"
+  },
+  {
+    "route_id": "87-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Sutarwadi (Vai Bhagvatinagar)"
+  },
+  {
+    "route_id": "87A-D",
+    "source": "Susgaon",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "87A-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Susgaon"
+  },
+  {
+    "route_id": "87B-D",
+    "source": "Sutarwadi Pashan",
+    "destination": "Mandai"
+  },
+  {
+    "route_id": "87B-U",
+    "source": "Mandai",
+    "destination": "Sutarwadi Pashan"
+  },
+  {
+    "route_id": "87C-D",
+    "source": "HMR Company",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "87C-U",
+    "source": "Deccan Gymkhana",
+    "destination": "HMR Company"
+  },
+  {
+    "route_id": "87D-D",
+    "source": "Sutarwadi",
+    "destination": "Deccan Gymkhana (Vai Sai Chowk)"
+  },
+  {
+    "route_id": "87D-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Sutarwadi (Vai Sai Chowk)"
+  },
+  {
+    "route_id": "87F-D",
+    "source": "Balewadi Mhalunge Phata",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "87F-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Balewadi Mhalunge Phata"
+  },
+  {
+    "route_id": "88A-D",
+    "source": "Swargate",
+    "destination": "Medi Point"
+  },
+  {
+    "route_id": "88-D",
+    "source": "Medi Point",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "88-U",
+    "source": "Upper Depot",
+    "destination": "Medi Point"
+  },
+  {
+    "route_id": "89-D",
+    "source": "Niljyoti",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "89-U",
+    "source": "Swargate",
+    "destination": "Niljyoti"
+  },
+  {
+    "route_id": "8-D",
+    "source": "Mhatobachi Alandi",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "8-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Mhatobachi Alandi"
+  },
+  {
+    "route_id": "90-D",
+    "source": "Gokhalenagar",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "90P-D",
+    "source": "Pandavnagar Senapati Bapat Road",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "90P-U",
+    "source": "Swargate",
+    "destination": "Pandavnagar Senapati Bapat Road"
+  },
+  {
+    "route_id": "90-U",
+    "source": "Swargate",
+    "destination": "Gokhalenagar"
+  },
+  {
+    "route_id": "91-D",
+    "source": "Ishanyanagari",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "91-U",
+    "source": "Ma Na Pa",
+    "destination": "Ishanyanagari"
+  },
+  {
+    "route_id": "92-D",
+    "source": "Pune Station",
+    "destination": "Gujrat Colony"
+  },
+  {
+    "route_id": "92-U",
+    "source": "Gujrat Colony",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "93-D",
+    "source": "Pimplenilakh",
+    "destination": "Deccan Gymkhana"
+  },
+  {
+    "route_id": "93-U",
+    "source": "Deccan Gymkhana",
+    "destination": "Pimplenilakh"
+  },
+  {
+    "route_id": "94A-D",
+    "source": "Vadgaonsheri",
+    "destination": "Kumbre park"
+  },
+  {
+    "route_id": "94A-U",
+    "source": "Kumbre park",
+    "destination": "Vadgaonsheri"
+  },
+  {
+    "route_id": "94B-U",
+    "source": "Kumbare Park",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "94-D",
+    "source": "Pune Station",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "94-U",
+    "source": "Kothrud Depot",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "95A-D",
+    "source": "Pimplegurav",
+    "destination": "Gujrat Colony"
+  },
+  {
+    "route_id": "95A-U",
+    "source": "Gujrat Colony",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "95-D",
+    "source": "Pimplegurav",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "95-U",
+    "source": "Kothrud Depot",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "96-D",
+    "source": "Gharkul Vasahat Warje",
+    "destination": "Pimplegurav"
+  },
+  {
+    "route_id": "96-U",
+    "source": "Pimplegurav",
+    "destination": "Gharkul Vasahat Warje"
+  },
+  {
+    "route_id": "97-D",
+    "source": "Sahkarnagar",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "97-U",
+    "source": "Warje Malwadi",
+    "destination": "Sahkarnagar"
+  },
+  {
+    "route_id": "9-D",
+    "source": "Uruli Railway Station",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "9-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Uruli Railway Station"
+  },
+  {
+    "route_id": "VJR1-D",
+    "source": "Dhayari Maruti Mandir",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "VJR1-U",
+    "source": "Hadapsar Gadital",
+    "destination": "Dhayari Maruti Mandir"
+  },
+  {
+    "route_id": "VJR2-D",
+    "source": "Kesnand Phata",
+    "destination": "Warje Malwadi"
+  },
+  {
+    "route_id": "VJR2-U",
+    "source": "Warje Malwadi",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "VJR3-D",
+    "source": "Hadapsar Gadital",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "VJR3-U",
+    "source": "Kothrud Depot",
+    "destination": "Hadapsar Gadital"
+  },
+  {
+    "route_id": "VJR4-D",
+    "source": "Vishrantwadi",
+    "destination": "Kothrud Depot"
+  },
+  {
+    "route_id": "VJR4-U",
+    "source": "Kothrud Depot",
+    "destination": "Vishrantwadi"
+  },
+  {
+    "route_id": "VJR5-D",
+    "source": "Mukai Chowk",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "VJR5-U",
+    "source": "Ma Na Pa",
+    "destination": "Mukai Chowk"
+  },
+  {
+    "route_id": "VJR6-D",
+    "source": "Hinjawadi Maan Phase 3",
+    "destination": "Bhosari"
+  },
+  {
+    "route_id": "VJR6-U",
+    "source": "Bhosari",
+    "destination": "Hinjawadi Maan Phase 3"
+  },
+  {
+    "route_id": "VJR2A-U",
+    "source": "Kothrud Stand",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "14A-D",
+    "source": "Kesnand Phata",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "14A-U",
+    "source": "Swargate",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "58B-U",
+    "source": "Swargate",
+    "destination": "Police Ground"
+  },
+  {
+    "route_id": "58B-D",
+    "source": "Police Ground",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "103D-U",
+    "source": "Katraj",
+    "destination": "MIT College"
+  },
+  {
+    "route_id": "103D-D",
+    "source": "MIT College",
+    "destination": "Katraj"
+  },
+  {
+    "route_id": "363B-D",
+    "source": "Sainagar Mamurdi",
+    "destination": "Nigdi"
+  },
+  {
+    "route_id": "363B-U",
+    "source": "Nigdi",
+    "destination": "Sainagar Mamurdi"
+  },
+  {
+    "route_id": "293S-U",
+    "source": "Salunke Vihar",
+    "destination": "Khed Shivapur"
+  },
+  {
+    "route_id": "293S-D",
+    "source": "Khed Shivapur",
+    "destination": "Salunke Vihar"
+  },
+  {
+    "route_id": "139S-U",
+    "source": "Salunke Vihar",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "139S-D",
+    "source": "Bhakti Shakti",
+    "destination": "Salunke Vihar"
+  },
+  {
+    "route_id": "135 NGT-D",
+    "source": "Kesnand Phata",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "135 NGT-U",
+    "source": "Pune Station",
+    "destination": "Kesnand Phata"
+  },
+  {
+    "route_id": "117 NGT-D",
+    "source": "Dhayari Gaon",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "117 NGT-U",
+    "source": "Swargate",
+    "destination": "Dhayari Gaon"
+  },
+  {
+    "route_id": "174 NGT-D",
+    "source": "Kondhwa Gate",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "174 NGT-U",
+    "source": "Pune Station",
+    "destination": "Kondhwa Gate"
+  },
+  {
+    "route_id": "348 NGT-D",
+    "source": "Bhakti Shakti",
+    "destination": "Pune Station"
+  },
+  {
+    "route_id": "348 NGT-U",
+    "source": "Pune Station",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "12 NGT-D",
+    "source": "Bhakti Shakti",
+    "destination": "Swargate"
+  },
+  {
+    "route_id": "12 NGT-U",
+    "source": "Swargate",
+    "destination": "Bhakti Shakti"
+  },
+  {
+    "route_id": "158B-U",
+    "source": "Ma Na Pa",
+    "destination": "D.Y. Patil Vidhypith Lohgaon"
+  },
+  {
+    "route_id": "158B-D",
+    "source": "D.Y. Patil Vidhypith Lohgaon",
+    "destination": "Ma Na Pa"
+  },
+  {
+    "route_id": "19D-U",
+    "source": "Trinity College",
+    "destination": "Shivajinagar"
+  },
+  {
+    "route_id": "19D-D",
+    "source": "Shivajinagar",
+    "destination": "Trinity College"
+  },
+  {
+    "route_id": "253-D",
+    "source": "Vidyanagar",
+    "destination": "Upper Depot"
+  },
+  {
+    "route_id": "253-U",
+    "source": "Upper Depot",
+    "destination": "Vidyanagar"
+  }
+]
